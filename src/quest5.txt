@@ -1,0 +1,5 @@
+1. cd door_management_files/door_configuration
+2. vi door_1.conf
+3. Change CLOSED OPEN
+4. Save
+5. Exit
